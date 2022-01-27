@@ -1,0 +1,45 @@
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+#head{
+    background-image: url(https://th.bing.com/th/id/OIP.DZDM5tf23tw-PY0bllS_lAHaE8?pid=ImgDet&rs=1) ;  
+}
+
+table{
+    height: 416px;
+    width: 1500px;   
+    font-style: Arial;  
+}
+.r1{
+    background-color: rgb(54, 179, 179);
+}
+.r2{
+    background-color: darkkhaki;
+    background-image: ;
+}
+.r3{
+    background-color: black;
+    color: yellow;
+}
+#txt{
+    text-align: end;
+    color: seashell;
+}
+h2{
+    text-align: center;
+}
+.first{
+    color: maroon;
+}
+.second{
+    color: red;
+}
+a:hover {
+    background-color: yellow;
+  }
+  body{
+      margin: 0;
+  }
