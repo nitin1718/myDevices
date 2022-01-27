@@ -5,7 +5,8 @@ h1{
 }
 
 #head{
-    background-image: url(https://th.bing.com/th/id/OIP.DZDM5tf23tw-PY0bllS_lAHaE8?pid=ImgDet&rs=1) ;
+    background : 
+      linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 100%, rgba(0,212,255,1) 100%);
     width: 100%; 
 }
 
